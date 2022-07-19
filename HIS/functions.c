@@ -253,8 +253,3 @@ int merge_rec()
 /**
  * COMING SOON .........
  */
-int main(void)
-{
-     welcome_page();
-     return (0);
-}
